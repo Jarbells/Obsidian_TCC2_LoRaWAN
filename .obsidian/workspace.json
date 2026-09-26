@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "a8b90c1658300f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef35a1fafcf54b07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d917397b05e0f21",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "tcc/imagens/Pasted image 20260926153513.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260926153513"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8301c46f00ff8c58",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc2df7320fdc827b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88218aca1cde1a62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "870c71ae06490e35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "61c41843b4e590cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "d0fa88cdc603ff48",
+    "type": "split",
+    "children": [
+      {
+        "id": "add52a5addf95046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6825cff77cbecbea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TCC/Capítulos/1 Introdução.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 1 Introdução"
+            }
+          },
+          {
+            "id": "4d748faddcf4ac1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TCC/Capítulos/1 Introdução.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 1 Introdução"
+            }
+          },
+          {
+            "id": "c21ffe8e2c38caf5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "997c221c4769e0e0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "cb393f1b1f6d3ac7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TCC/Capítulos/1 Introdução.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 1 Introdução"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "88218aca1cde1a62",
+  "lastOpenFiles": [
+    "tcc/referencias/bor-et-al-2016-01.md",
+    "tcc/imagens/Pasted image 20260926162443.png",
+    "tcc/imagens/Pasted image 20260926161808.png",
+    "tcc/imagens/Pasted image 20260926161639.png",
+    "tcc/imagens/Pasted image 20260926161131.png",
+    "tcc/imagens/Pasted image 20260926160830.png",
+    "tcc/imagens/Pasted image 20260926160649.png",
+    "tcc/imagens/Pasted image 20260926155737.png",
+    "tcc/imagens/Pasted image 20260926155334.png",
+    "tcc/capitulos/2.5 Simulação de redes LoRaWAN.md",
+    "tcc/imagens/Pasted image 20260926154801.png",
+    "tcc/imagens/Pasted image 20260926154616.png",
+    "tcc/capitulos/2.4 Escalabilidade em redes LoRaWAN.md",
+    "tcc/referencias/sarmento-neto-et-al-2025-01.md",
+    "tcc/referencias/macedo-et-al-2023-01.md",
+    "tcc/referencias/pagano-et-al-2023-01.md",
+    "tcc/referencias/jouhari-et-al-2023-01.md",
+    "tcc/capitulos/2.3 Redes LPWAN, LoRa e LoRaWAN.md",
+    "tcc/capitulos/2.2 Pecuária de Precisão e Internet das Coisas.md",
+    "tcc/capitulos/2.1 Ovinocultura.md",
+    "tcc/capitulos/2 FUNDAMENTAÇÃO TEÓRICA.md",
+    "tcc/referencias/pagano-et-al-2023-02.md",
+    "tcc/referencias/pagano-et-al-2023-03.md",
+    "sarmento-netoet-al-2025-01.md",
+    "sarmentonetoet-al-2025-01.md",
+    "tcc/referencias/lora-alliance-2020-03.md",
+    "tcc/referencias/lora-alliance-2020-02.md",
+    "tcc/referencias/jouhari-et-al-2023-02.md",
+    "tcc/referencias/lora-alliance-2020-01.md",
+    "tcc/referencias/bhaskaran-et-al-2024-02.md",
+    "tcc/referencias/nikolopoulou-et-al-2026-02.md",
+    "tcc/referencias/rajak-et-al-2023-01.md",
+    "tcc/referencias/soussi-et-al-2024-01.md",
+    "rajak-et-al-2023.md",
+    "tcc/referencias/papakonstantinou-et-al-2024.md"
+  ]
+}

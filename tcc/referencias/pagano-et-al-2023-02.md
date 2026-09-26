@@ -1,0 +1,4 @@
+*PDF Página 01*
+![[Pasted image 20260910193617.png]]
+
+Apesar desses benefícios potenciais, a implementação de sistemas de agricultura inteligente ainda está em estágio inicial. De fato, um obstáculo à digitalização da agricultura é a ausência ou as limitações de conectividade à Internet em muitas áreas. Na literatura, diversos protocolos de comunicação foram propostos, apresentando características distintas em termos de custo, cobertura, consumo de energia e confiabilidade. Dentre as tecnologias disponíveis (resumidas na Fig. 1 quanto ao consumo de energia e alcance de cobertura), as redes de longa distância e baixo consumo de energia (LPWANs) destacadas em uma caixa tracejada na Fig. 1 representam a melhor solução para atender aos requisitos da agricultura inteligente. Uma das tecnologias LPWAN mais adotadas é a LoRaWAN, que oferece ampla cobertura de rede, segurança integrada, baixo custo e baixo consumo de energia durante a operação.
