@@ -11,12 +11,14 @@
             "id": "0d917397b05e0f21",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "tcc/imagens/Pasted image 20260926153513.png"
+                "file": "tcc/referencias/pagano-et-al-2023-01.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260926153513"
+              "icon": "lucide-file",
+              "title": "pagano-et-al-2023-01"
             }
           }
         ]
@@ -183,23 +185,24 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "88218aca1cde1a62",
+  "active": "0d917397b05e0f21",
   "lastOpenFiles": [
+    "tcc/referencias/macedo-et-al-2023-01.md",
+    "tcc/referencias/brandao-et-al-2024-01.md",
+    "tcc/capitulos/2.5 Simulação de redes LoRaWAN.md",
+    "tcc/imagens/Pasted image 20260927145300.png",
+    "tcc/imagens/Pasted image 20260927150721.png",
+    "tcc/imagens/Pasted image 20260927145506.png",
     "tcc/referencias/bor-et-al-2016-01.md",
+    "tcc/imagens/Pasted image 20260926153513.png",
     "tcc/imagens/Pasted image 20260926162443.png",
     "tcc/imagens/Pasted image 20260926161808.png",
     "tcc/imagens/Pasted image 20260926161639.png",
     "tcc/imagens/Pasted image 20260926161131.png",
     "tcc/imagens/Pasted image 20260926160830.png",
     "tcc/imagens/Pasted image 20260926160649.png",
-    "tcc/imagens/Pasted image 20260926155737.png",
-    "tcc/imagens/Pasted image 20260926155334.png",
-    "tcc/capitulos/2.5 Simulação de redes LoRaWAN.md",
-    "tcc/imagens/Pasted image 20260926154801.png",
-    "tcc/imagens/Pasted image 20260926154616.png",
     "tcc/capitulos/2.4 Escalabilidade em redes LoRaWAN.md",
     "tcc/referencias/sarmento-neto-et-al-2025-01.md",
-    "tcc/referencias/macedo-et-al-2023-01.md",
     "tcc/referencias/pagano-et-al-2023-01.md",
     "tcc/referencias/jouhari-et-al-2023-01.md",
     "tcc/capitulos/2.3 Redes LPWAN, LoRa e LoRaWAN.md",
