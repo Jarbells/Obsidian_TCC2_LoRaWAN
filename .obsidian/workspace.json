@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tcc/referencias/pagano-et-al-2023-01.md",
+                "file": "tcc/capitulos/2.5 Simulação de redes LoRaWAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pagano-et-al-2023-01"
+              "title": "2.5 Simulação de redes LoRaWAN"
             }
           }
         ]
@@ -187,9 +187,13 @@
   },
   "active": "0d917397b05e0f21",
   "lastOpenFiles": [
+    "tcc/referencias/pagano-et-al-2023-02.md",
+    "tcc/referencias/pagano-et-al-2023-03.md",
+    "tcc/capitulos/2.5 Simulação de redes LoRaWAN.md",
+    "tcc/referencias/pagano-et-al-2023-01.md",
     "tcc/referencias/macedo-et-al-2023-01.md",
     "tcc/referencias/brandao-et-al-2024-01.md",
-    "tcc/capitulos/2.5 Simulação de redes LoRaWAN.md",
+    "brandao-et-al-2024.md",
     "tcc/imagens/Pasted image 20260927145300.png",
     "tcc/imagens/Pasted image 20260927150721.png",
     "tcc/imagens/Pasted image 20260927145506.png",
@@ -203,14 +207,11 @@
     "tcc/imagens/Pasted image 20260926160649.png",
     "tcc/capitulos/2.4 Escalabilidade em redes LoRaWAN.md",
     "tcc/referencias/sarmento-neto-et-al-2025-01.md",
-    "tcc/referencias/pagano-et-al-2023-01.md",
     "tcc/referencias/jouhari-et-al-2023-01.md",
     "tcc/capitulos/2.3 Redes LPWAN, LoRa e LoRaWAN.md",
     "tcc/capitulos/2.2 Pecuária de Precisão e Internet das Coisas.md",
     "tcc/capitulos/2.1 Ovinocultura.md",
     "tcc/capitulos/2 FUNDAMENTAÇÃO TEÓRICA.md",
-    "tcc/referencias/pagano-et-al-2023-02.md",
-    "tcc/referencias/pagano-et-al-2023-03.md",
     "sarmento-netoet-al-2025-01.md",
     "sarmentonetoet-al-2025-01.md",
     "tcc/referencias/lora-alliance-2020-03.md",
@@ -221,7 +222,6 @@
     "tcc/referencias/nikolopoulou-et-al-2026-02.md",
     "tcc/referencias/rajak-et-al-2023-01.md",
     "tcc/referencias/soussi-et-al-2024-01.md",
-    "rajak-et-al-2023.md",
-    "tcc/referencias/papakonstantinou-et-al-2024.md"
+    "rajak-et-al-2023.md"
   ]
 }
